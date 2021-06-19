@@ -1,0 +1,680 @@
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\ApplicationInsights.config
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\csc.exe
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Collections.Immutable.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\vbc.exe
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\roslyn\VBCSCompiler.exe.config
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll.config
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\3layerweb.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Web.Infrastructure.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Owin.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\WebGrease.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.Web.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AI.WindowsServer.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.ApplicationInsights.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Optimization.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Antlr3.Runtime.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Newtonsoft.Json.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\EntityFramework.SqlServer.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\System.Web.Providers.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Google.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\3layerweb\obj\Debug\3layerweb.pdb

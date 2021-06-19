@@ -1,0 +1,108 @@
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel1]\nabeel\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Nabeel\Desktop\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\onlineclasses\lab assignments\login signup session assignment\ThreeLayerOfcMgtSystem3\BusinessLayer\obj\Debug\BusinessLayer.pdb

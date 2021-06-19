@@ -1,0 +1,111 @@
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+C:\Users\student\Desktop\nabeel\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\2nd lab work 11-feb-2020\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\New folder\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form2.resources
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.dll
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.pdb
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form2.resources
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+C:\Users\student\Desktop\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form2.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\practice work\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+F:\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+F:\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+F:\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.dll
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.pdb
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form2.resources
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe.config
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\ThreeLayerOfcMgtSystem3.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.dll
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\BusinessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\PrjProps.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\bin\Debug\DataAccessLayer.pdb
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csprojResolveAssemblyReference.cache
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form1.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Form2.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.Properties.Resources.resources
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.csproj.GenerateResource.Cache
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.exe
+D:\Numl\6th Semester\Visual Programing\lab Work\adminLTE masterpage create web vp\ThreeLayerOfcMgtSystem3\ThreeLayerOfcMgtSystem3\obj\Debug\ThreeLayerOfcMgtSystem3.pdb
